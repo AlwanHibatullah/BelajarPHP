@@ -1,0 +1,30 @@
+[
+  {
+    "judul": "Tentang Kamu",
+    "penulis": "Tere Liye",
+    "tahun": 2023,
+    "penerbit": "PENERBIT SABAK GRIP", 
+    "harga" : 80000
+  },
+  {
+    "judul": "Teruslah Bodoh, Jangan Pintar",
+    "penulis": "Tere Liye",
+    "tahun": 2024,
+    "penerbit": "PENERBIT SABAK GRIP", 
+    "harga" : 89000
+  },
+  {
+    "judul": "Laut Bercerita",
+    "penulis": "Leila S. Choduri",
+    "tahun": 2017,
+    "penerbit": "Gramedia", 
+    "harga" : 109000
+  },
+  {
+    "judul": "Keajaiban Toko Kelontong Namiya",
+    "penulis": "Keigo Higashino",
+    "tahun": 2021,
+    "penerbit": "Gramedia Pustaka Utama", 
+    "harga" : 129000
+  }
+]
